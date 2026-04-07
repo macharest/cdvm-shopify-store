@@ -91,7 +91,7 @@
             "placement": "on_image",
             "horizontal_alignment": "center",
             "vertical_alignment": "center",
-            "collection_card_gap": 1,
+            "collection_card_gap": 0,
             "inherit_color_scheme": false,
             "color_scheme": "scheme-6",
             "border": "none",
