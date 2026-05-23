@@ -1553,28 +1553,6 @@
     "section_QdCqeP": {
       "type": "section",
       "blocks": {
-        "image_GBbTUU": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/1_front_lr.jpg",
-            "link": "",
-            "image_ratio": "square",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
         "group_AwQxtN": {
           "type": "group",
           "settings": {
@@ -1685,11 +1663,33 @@
             "text_TVLLAN",
             "button_FW9mRT"
           ]
+        },
+        "image_GBbTUU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1_front_lr.jpg",
+            "link": "",
+            "image_ratio": "square",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
         }
       },
       "block_order": [
-        "image_GBbTUU",
-        "group_AwQxtN"
+        "group_AwQxtN",
+        "image_GBbTUU"
       ],
       "name": "t:names.image_with_text",
       "settings": {
